@@ -1,1 +1,2 @@
-RESIDE Dataset��https://sites.google.com/view/reside-dehaze-datasets/reside-v0
+RESIDE Dataset ： https://sites.google.com/view/reside-dehaze-datasets/reside-v0
+RTTS Dataset :    https://pan.baidu.com/s/14k-jkKzOCyN6aKDmbWgWNw   提取码：myf2
